@@ -1,0 +1,38 @@
+Selected Negative Sentences:
+0. company decided end temporarily shut ammonia plant billingham extend maintenance period ince facility
+1. eur h august finnish medium group ilkka yhtyma oyj hel ilk said today net profit fell year eur first half
+2. steelmaker said drop profit explained continuing economic uncertainty mixed current drought bank lending resulting decline demand product customer find increasingly difficult fund operation
+3. finland based stockmann group closed seven franchising sport store nike russia
+4. operating loss non recurring item eur mn compared profit eur mn
+5. high court finland fined seven local asphalt company lion million operating cartel
+6. adpnews feb finland based steel maker rautaruukki oyj hel rtrks ruukki said today slipped larger expected pretax loss eur million usd fourth quarter
+7. net profit fell almost half e million e million end
+8. finland sampo bank part danske bank group lay staff administrative support function
+9. yit lodged counter claim neste oil totaling eur primarily based work carried contract additional cost incurred due prolongation project
+10. share royal sun alliance continued slide back month high p last month potential suitor ruled takeover bid
+11. net sale financial year expected amount eur operating result ebit expected loss announced
+12. paper stock among biggest faller stora enso pct eur real pct eur upm kymmene pct lower eur
+13. finland hobby hall sale decreased international sale fell
+14. baltimore police fire pension billion lost million madoff ponzi scheme
+
+Top 5 Most Similar Sentence Pairs:
+
+Pair (1, 6) - Similarity: 0.942
+Sentence 1: eur h august finnish medium group ilkka yhtyma oyj hel ilk said today net profit fell year eur first half
+Sentence 6: adpnews feb finland based steel maker rautaruukki oyj hel rtrks ruukki said today slipped larger expected pretax loss eur million usd fourth quarter
+
+Pair (1, 7) - Similarity: 0.889
+Sentence 1: eur h august finnish medium group ilkka yhtyma oyj hel ilk said today net profit fell year eur first half
+Sentence 7: net profit fell almost half e million e million end
+
+Pair (6, 11) - Similarity: 0.886
+Sentence 6: adpnews feb finland based steel maker rautaruukki oyj hel rtrks ruukki said today slipped larger expected pretax loss eur million usd fourth quarter
+Sentence 11: net sale financial year expected amount eur operating result ebit expected loss announced
+
+Pair (7, 11) - Similarity: 0.886
+Sentence 7: net profit fell almost half e million e million end
+Sentence 11: net sale financial year expected amount eur operating result ebit expected loss announced
+
+Pair (6, 7) - Similarity: 0.877
+Sentence 6: adpnews feb finland based steel maker rautaruukki oyj hel rtrks ruukki said today slipped larger expected pretax loss eur million usd fourth quarter
+Sentence 7: net profit fell almost half e million e million end
